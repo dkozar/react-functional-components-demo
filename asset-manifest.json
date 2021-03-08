@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-functional-components-demo/static/css/main.64cfd78d.chunk.css",
+    "main.js": "/react-functional-components-demo/static/js/main.0ab667aa.chunk.js",
+    "main.js.map": "/react-functional-components-demo/static/js/main.0ab667aa.chunk.js.map",
+    "runtime-main.js": "/react-functional-components-demo/static/js/runtime-main.f02ef3ef.js",
+    "runtime-main.js.map": "/react-functional-components-demo/static/js/runtime-main.f02ef3ef.js.map",
+    "static/js/2.3aa6c1fb.chunk.js": "/react-functional-components-demo/static/js/2.3aa6c1fb.chunk.js",
+    "static/js/2.3aa6c1fb.chunk.js.map": "/react-functional-components-demo/static/js/2.3aa6c1fb.chunk.js.map",
+    "static/js/3.f64cc6eb.chunk.js": "/react-functional-components-demo/static/js/3.f64cc6eb.chunk.js",
+    "static/js/3.f64cc6eb.chunk.js.map": "/react-functional-components-demo/static/js/3.f64cc6eb.chunk.js.map",
+    "index.html": "/react-functional-components-demo/index.html",
+    "static/css/main.64cfd78d.chunk.css.map": "/react-functional-components-demo/static/css/main.64cfd78d.chunk.css.map",
+    "static/js/2.3aa6c1fb.chunk.js.LICENSE.txt": "/react-functional-components-demo/static/js/2.3aa6c1fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f02ef3ef.js",
+    "static/js/2.3aa6c1fb.chunk.js",
+    "static/css/main.64cfd78d.chunk.css",
+    "static/js/main.0ab667aa.chunk.js"
+  ]
+}
