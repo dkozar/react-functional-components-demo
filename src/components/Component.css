@@ -1,0 +1,16 @@
+.component {
+    margin-top: 1rem;
+    padding: 3rem;
+}
+
+.class {
+    background-color: midnightblue;
+}
+
+.func {
+    background-color: green;
+}
+
+.func-memoized {
+    background-color: purple;
+}
